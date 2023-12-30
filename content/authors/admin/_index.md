@@ -94,18 +94,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/johleut
-    label: Follow me on Twitter
+  - icon: mastodon
+    icon_pack: hb
+    link: https://swiss.social/@johleut
+    label: Follow me on Mastodon
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/johleut
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/johannes-leutenegger-730a38185/
