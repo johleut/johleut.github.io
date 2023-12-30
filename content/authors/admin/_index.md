@@ -10,8 +10,8 @@ first_name: Johannes
 last_name: Leutenegger
 
 # Status emoji
-status:
-  icon: ☕️
+status: Bereit für die Kantonsratswahlen!
+  icon: 🍀
 
 # Is this the primary user of the site?
 superuser: true
