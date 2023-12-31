@@ -40,7 +40,7 @@ education:
       institution: Universität Zürich
       year: 2019
     - course: M.A. in Geschichte und Philosophie
-      institution: Universität Züric
+      institution: Universität Zürich
       year: 2018
     - course: B.A. Geschichte und Philosophie
       institution: Universität Zürich
